@@ -62,7 +62,7 @@ Gambar 1.6 TAMPILAN TAMBAH DATA
 LINK GITHUB
 
 
-https://github.com/MuhamadSafiiWibowo/pratikum_inventory/edit/main/README.md
+https://github.com/MuhamadSafiiWibowo/pratikum_inventory
 
 
 
