@@ -2,7 +2,7 @@
 
 PROFIL SINGKAT
 
-PT Sakura Mobilindo  adalah perusahaan yang bergerak di bidang jual beli mobil baru dan bekas berkualitas. Berdiri sejak tahun 2018, perusahaan berkomitmen menyediakan kendaraan yang terpercaya, aman, dan sesuai kebutuhan pelanggan.Didukung oleh tim profesional dan berpengalaman, PT Maju Jaya Motor menawarkan berbagai pilihan kendaraan dari berbagai merek dengan kondisi terjamin serta proses transaksi yang mudah dan transparan. Selain penjualan kendaraan, perusahaan juga menyediakan layanan tukar tambah, pembiayaan kredit, serta konsultasi pembelian mobil.
+PT Sakura Mobilindo  adalah perusahaan yang bergerak di bidang jual beli mobil baru dan bekas berkualitas. Berdiri sejak tahun 2018, perusahaan berkomitmen menyediakan kendaraan yang terpercaya, aman, dan sesuai kebutuhan pelanggan.Didukung oleh tim profesional dan berpengalaman, PT Sakura Mobilindo menawarkan berbagai pilihan kendaraan dari berbagai merek dengan kondisi terjamin serta proses transaksi yang mudah dan transparan. Selain penjualan kendaraan, perusahaan juga menyediakan layanan tukar tambah, pembiayaan kredit, serta konsultasi pembelian mobil.
 
 VISI
 
