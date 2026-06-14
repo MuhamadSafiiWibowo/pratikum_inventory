@@ -37,9 +37,9 @@
         <div class="card card-success card-outline mb-4">
             
             <div class="card-header text-center">
-            <img src="assets/img/sakura.png" width="100"height="100" alt="icon">
+            <img src="assets/img/gambar.png" width="100"height="100" alt="icon">
                 <h3 class="card-title float-none">
-                    LPK Sakura Japan Course
+                    Sakura Mobilindo 
                 </h3>
             </div>
 
