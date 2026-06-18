@@ -41,7 +41,12 @@ Gambar 1.2 REGISTRASI
 
 <img width="975" height="572" alt="image" src="https://github.com/user-attachments/assets/691e13ec-5b91-41d3-81da-68c3dc3d528f" />
 
+<img width="952" height="538" alt="image" src="https://github.com/user-attachments/assets/b9ce43b6-4ee8-4e7b-a3bc-a6c067500a52" />
+
+
+
 Gambar 1.3 TAMPILAN ADMIN
+
 
  
 <img width="551" height="553" alt="image" src="https://github.com/user-attachments/assets/35d3eef9-70f4-4759-a6c6-1085257aa164" />
@@ -50,8 +55,12 @@ Gambar 1.4 PROFIL
 
  
 <img width="975" height="575" alt="image" src="https://github.com/user-attachments/assets/9174c282-43e9-41cf-94ea-d90de67b163f" />
+<img width="959" height="540" alt="image" src="https://github.com/user-attachments/assets/5714502f-fac7-48fe-b3ba-75271676078d" />
+
+
 
 Gambar 1.5 TAMPILAN USER
+
 
 
  <img width="975" height="575" alt="image" src="https://github.com/user-attachments/assets/4c65c2e1-b392-444f-b066-ed7a33f94ec0" />
