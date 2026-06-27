@@ -41,6 +41,8 @@ Gambar 1.2 REGISTRASI
 
 <img width="975" height="572" alt="image" src="https://github.com/user-attachments/assets/691e13ec-5b91-41d3-81da-68c3dc3d528f" />
 
+<img width="975" height="537" alt="image" src="https://github.com/user-attachments/assets/dd3aa339-80c1-4400-a124-dbcf5f395f77" />
+
 <img width="952" height="538" alt="image" src="https://github.com/user-attachments/assets/b9ce43b6-4ee8-4e7b-a3bc-a6c067500a52" />
 
 
