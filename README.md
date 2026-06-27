@@ -79,4 +79,4 @@ https://github.com/MuhamadSafiiWibowo/pratikum_inventory
 
 LINK PRESENTASI
 
-(LINK TIKTOK/YOUT
+https://youtu.be/hSWTJXvlQHM?si=fR6cXrLVlYiYk98O
